@@ -1,4 +1,3 @@
-# Slime Mould-biomimicry
 # Physarum Polycephalum-Inspired Optimization
 
 ## Algorithms, Applications, and Cross-Domain Network Optimization
