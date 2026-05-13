@@ -1,7 +1,4 @@
-# slime-mould-biomimicry
-A multidisciplinary biomimicry research project exploring slime mould-inspired optimization algorithms across graph theory, communication networks, bioinformatics, and power systems.
-
-
+# Slime Mould-biomimicry
 # Physarum Polycephalum-Inspired Optimization
 
 ## Algorithms, Applications, and Cross-Domain Network Optimization
